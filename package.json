@@ -1,0 +1,19 @@
+{
+  "name": "bodaismaelnieves",
+  "version": "1.0.0",
+  "description": "descripcion",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaeljj2/boda.git"
+  },
+  "author": "ismaeljj2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismaeljj2/boda/issues"
+  },
+  "homepage": "https://github.com/ismaeljj2/boda#readme"
+}
